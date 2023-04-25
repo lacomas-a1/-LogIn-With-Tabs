@@ -30,7 +30,7 @@ if (isset($_SESSION["user"])) {
                 <div class="text-center">
                     <!-- <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/lotus.webp"
                       style="width: 185px;" alt="logo"> -->
-                      <img src="image/logos.webp" alt="Description of the image"  width="300" height="150">
+                    <img src="image/logos.webp" alt="Description of the image"  width="300" height="150">
                     <h4 class="mt-1 mb-2 pb-1">We are The Lotus Team</h4>
                 </div>
             </div>
@@ -98,7 +98,7 @@ if (isset($_SESSION["user"])) {
                     
                             <div class="col-md-6 d-flex justify-content-center">
                                 <!-- Simple link -->
-                                <a href="forgetpassword.html">Forgot password?</a>
+                                <a href="forgetpassword.php">Forgot password?</a>
                             </div>
                             </div>
                             <!-- Submit button -->
